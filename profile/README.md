@@ -20,8 +20,8 @@ We are **Soarivine** - a specialized team focused on industrial automation, data
 ### 🔧 Technologies We Work With
 - **Industrial**: WinCC, SCADA systems, PLC communications
 - **Database**: SQL Server, data pipeline design
-- **Applications**: Electron, Windows Forms, web applications
-- **Languages**: VBScript, C#, JavaScript, SQL
+- **Applications**: Electron, Windows Forms, web applications, iOS Application 
+- **Languages**: VBScript, C#, JavaScript, SQL, Swift
 
 ## Our Approach
 
